@@ -1,6 +1,6 @@
 <a href="https://eddiechann.com"><img src="assets/dragon-isles.svg" alt="Pixel art of Eddie's Dragon Isles: a red dragon flies past floating temple islands above a sea of clouds at dusk" width="100%"></a>
 
-### 你好, I'm Eddie (陈嘉豪) 🐉
+### Hey I'm Edward! (most people call me Eddie)
 
 In Chinese there's a phrase, **望子成龙** (*wàng zǐ chéng lóng*): parents hoping their child grows up to become a dragon. I took it literally and built [my portfolio](https://eddiechann.com) as a sky you fly through as one.
 
